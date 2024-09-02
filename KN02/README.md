@@ -12,4 +12,15 @@
 
 ![Screenshot 2024-09-02 092117](https://github.com/user-attachments/assets/14173e40-9b74-475a-b9f2-ff3620e0820b)
 
-### b) 
+### b) Lab 4.2 - S3
+
+![Screenshot 2024-09-02 103803](https://github.com/user-attachments/assets/51d2f93d-2247-4ecb-a74b-d8343440d74b)
+
+![Screenshot 2024-09-02 103338](https://github.com/user-attachments/assets/51d33ffd-9eea-4d33-95e4-bffc8d0b7b87)
+
+![Screenshot 2024-09-02 103451](https://github.com/user-attachments/assets/2e947dbb-eb25-4dc7-b6cd-749ccb8c1f53)
+
+![Screenshot 2024-09-02 103356](https://github.com/user-attachments/assets/66965486-dea3-4851-a2d1-bb77ea50f767)
+
+![Screenshot 2024-09-02 103745](https://github.com/user-attachments/assets/6d85006d-4627-4ca9-a62c-97cd434689a3)
+
