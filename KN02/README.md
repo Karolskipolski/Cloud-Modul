@@ -24,3 +24,10 @@
 
 ![Screenshot 2024-09-02 103745](https://github.com/user-attachments/assets/6d85006d-4627-4ca9-a62c-97cd434689a3)
 
+## B) Zugriff mit SSH-Key
+
+![Screenshot 2024-09-02 110005](https://github.com/user-attachments/assets/c3df85a1-1751-40e5-b555-6d37629e1fb1)
+
+![Screenshot 2024-09-02 105919](https://github.com/user-attachments/assets/8bc310d2-8db8-4f6a-9c11-a291d813bf39)
+
+![image](https://github.com/user-attachments/assets/1d0da018-10ac-41c4-a27c-04555a4137c7)
