@@ -7,3 +7,5 @@
 ![Screenshot 2024-09-16 102705](https://github.com/user-attachments/assets/e11b498d-4e77-41d1-a943-abfc2bcda81e)
 
 ![Screenshot 2024-09-16 102736](https://github.com/user-attachments/assets/567f4fb1-df3e-48b6-828e-d7653f0a6500)
+
+## B) Elastic Block Storage (EBS) hinzufügen. (40%)
