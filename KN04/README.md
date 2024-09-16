@@ -10,3 +10,5 @@
 
 ip1: 172.31.60.50
 ip2: 172.31.60.30
+
+## C) Objekte und Instanzen erstellen (80%)
