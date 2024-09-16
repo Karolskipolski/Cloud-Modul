@@ -1,4 +1,4 @@
-# AWS Kurs (60%)
+# KN02
 
 ## A) AWS Kurs (60%)
 
