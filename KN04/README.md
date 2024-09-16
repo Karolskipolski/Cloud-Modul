@@ -6,3 +6,5 @@
 
 ## B) Subnetz und private IP wählen (10%)
 
+ip1: 172.31.60.50
+ip2: 172.31.60.30
