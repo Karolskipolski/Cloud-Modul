@@ -12,3 +12,7 @@ ip1: 172.31.60.50
 ip2: 172.31.60.30
 
 ## C) Objekte und Instanzen erstellen (80%)
+
+![Screenshot 2024-09-23 082855](https://github.com/user-attachments/assets/67e386d1-87c2-4a42-b406-36905c69dce1)
+![Screenshot 2024-09-23 082839](https://github.com/user-attachments/assets/5d1406f5-5924-46b4-aed9-c244aa6a7d54)
+![Screenshot 2024-09-23 082823](https://github.com/user-attachments/assets/d68594fb-d196-4a69-8482-89bb1bc210ea)
