@@ -8,8 +8,8 @@
 
 ![Screenshot 2024-09-16 113507](https://github.com/user-attachments/assets/1b00b117-1ba4-4dfa-8adf-8ff1f754aa49)
 
-ip1: 172.31.60.50
-ip2: 172.31.60.30
+ip1: 172.31.60.10
+ip2: 172.31.60.20
 
 ## C) Objekte und Instanzen erstellen (80%)
 
@@ -23,5 +23,6 @@ ip2: 172.31.60.30
 
 ![image](https://github.com/user-attachments/assets/1c9495b7-43e9-4d49-91b5-468f0bb28baf)
 
-### Netzwerk Interface
+### Instanzen erstellen
+
 
