@@ -25,3 +25,6 @@ ip2: 172.31.60.30
 
 ### Netzwerk Interface
 
+![Screenshot 2024-09-23 103129](https://github.com/user-attachments/assets/6c337b84-543b-48c8-aec1-6127302149c2)
+![Screenshot 2024-09-23 103113](https://github.com/user-attachments/assets/62a723e5-cb46-423a-8a8e-b1cd443b5569)
+
