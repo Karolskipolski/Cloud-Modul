@@ -19,3 +19,7 @@ Heroku ist eine einfache PaaS-Lösung, die viele Infrastrukturaufgaben automatis
 
 ![Bild (1)](https://github.com/user-attachments/assets/b2cbd20f-0d02-4ba3-ac31-d22b3e5b6da1)
 
+Zoho CRM wird gewählt, da es für 16 Benutzer mit 640€/Monat deutlich günstiger ist als Salesforce (2.640€/Monat für die Enterprise-Version).
+
+SaaS: Einfach zu nutzen, keine Wartung erforderlich, aber weniger anpassbar.
+IaaS/PaaS: Mehr Kontrolle, aber teurer und aufwändiger in der Verwaltung.
