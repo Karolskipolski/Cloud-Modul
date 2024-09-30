@@ -5,7 +5,7 @@
 
 ![Screenshot 2024-09-30 105617](https://github.com/user-attachments/assets/e589767e-2b10-4a8c-81e1-4758a9e8d159)
 
-Ich persöhnlich würde eher Azure benutzen, weil es billiger und einfach zum einstellen ist. Azure konnten wir in etwa 20 minuten aufstellen und bei AWS hatten wir probleme.
+Ich persöhnlich würde eher AWS benutzen, weil es viel billiger ist jedoch konnten wir in etwa 20 minuten Azure aufstellen und bei AWS hatten wir probleme.
 
 ### 2) Replatforming
 
