@@ -11,7 +11,7 @@ Ich persöhnlich würde eher Azure benutzen, weil es billiger und einfach zum ei
 
 ![Bild](https://github.com/user-attachments/assets/0b5d76a1-78ac-42a6-bb2f-fcc131b58dd8)
 
-
+Heroku ist eine einfache PaaS-Lösung, die viele Infrastrukturaufgaben automatisch übernimmt. Sie erleichtert die Integration von Datenbanken, Backups und Skalierung, was ideal für kleinere Projekte ist. Dadurch spart man Zeit und reduziert die Verwaltungskomplexität.
 
 ### 3) Repurchasing
 
