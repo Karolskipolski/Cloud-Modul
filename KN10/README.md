@@ -26,4 +26,8 @@ IaaS/PaaS: Mehr Kontrolle, aber teurer und aufwändiger in der Verwaltung.
 
 ## B) Interpretation der Resultate (20%)
 
+Zoho CRM ist am günstigsten (ab 14€/Benutzer/Monat), Salesforce ist teurer (ab 25€/Benutzer/Monat), und IaaS/PaaS-Modelle wie AWS und Azure variieren, wobei AWS mit ca. 76,36 USD/Monat am günstigsten ist.
 
+Das günstigste Angebot ist Zoho CRM. Für 16 Benutzer kostet die Standardversion etwa 224€/Monat, während Salesforce und IaaS/PaaS-Lösungen deutlich teurer sind.
+
+Salesforce bietet mehr Funktionen (z.B. AI), daher teurer, aber für große Unternehmen sinnvoll. IaaS/PaaS-Modelle sind teurer durch Flexibilität und Kontrolle, lohnen sich aber langfristig durch Skalierbarkeit.
