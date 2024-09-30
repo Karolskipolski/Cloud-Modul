@@ -23,3 +23,7 @@ Zoho CRM wird gewählt, da es für 16 Benutzer mit 640€/Monat deutlich günsti
 
 SaaS: Einfach zu nutzen, keine Wartung erforderlich, aber weniger anpassbar.
 IaaS/PaaS: Mehr Kontrolle, aber teurer und aufwändiger in der Verwaltung.
+
+## B) Interpretation der Resultate (20%)
+
+
