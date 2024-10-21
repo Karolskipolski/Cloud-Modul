@@ -4,3 +4,5 @@
 
 [YAML-File](cloud-init.yaml)
 
+## B) SSH-Key und Cloud-init (15%)
+
