@@ -26,4 +26,4 @@ ip2: 172.31.60.20
 ### Instanzen erstellen
 
 ![Screenshot 2024-10-21 093937](https://github.com/user-attachments/assets/b5face78-55f5-464c-a6ab-c30233ba230b)
-
+![Screenshot 2024-10-21 093952](https://github.com/user-attachments/assets/0058a77f-9ec3-48b7-b6c9-1d486e55160d)
