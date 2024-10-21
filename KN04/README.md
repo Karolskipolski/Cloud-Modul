@@ -27,3 +27,6 @@ ip2: 172.31.60.20
 
 ![Screenshot 2024-10-21 093937](https://github.com/user-attachments/assets/b5face78-55f5-464c-a6ab-c30233ba230b)
 ![Screenshot 2024-10-21 093952](https://github.com/user-attachments/assets/0058a77f-9ec3-48b7-b6c9-1d486e55160d)
+![image](https://github.com/user-attachments/assets/0bcbecb6-d7fc-4297-896b-4fb59661634c)
+![image](https://github.com/user-attachments/assets/7da27c3b-38c8-4366-b4a0-6f1ddd7eba4c)
+![image](https://github.com/user-attachments/assets/2bbccacb-d01f-46ad-9548-95b0ee149a2e)
