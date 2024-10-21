@@ -8,8 +8,8 @@
 
 ![Screenshot 2024-09-16 113507](https://github.com/user-attachments/assets/1b00b117-1ba4-4dfa-8adf-8ff1f754aa49)
 
-ip1: 172.31.60.10
-ip2: 172.31.60.20
+ip1: 172.31.16.10
+ip2: 172.31.16.20
 
 ## C) Objekte und Instanzen erstellen (80%)
 
