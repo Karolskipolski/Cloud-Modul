@@ -15,9 +15,8 @@ ip2: 172.31.16.20
 
 ### Sicherheitsgruppe
 
-![Screenshot 2024-09-23 082855](https://github.com/user-attachments/assets/67e386d1-87c2-4a42-b406-36905c69dce1)
-![Screenshot 2024-09-23 082839](https://github.com/user-attachments/assets/5d1406f5-5924-46b4-aed9-c244aa6a7d54)
-![Screenshot 2024-09-23 082823](https://github.com/user-attachments/assets/d68594fb-d196-4a69-8482-89bb1bc210ea)
+![image](https://github.com/user-attachments/assets/7caed1fa-9d78-4792-bf05-84a45c6cbe0e)
+![image](https://github.com/user-attachments/assets/32dd1fcb-37e1-439b-9604-f84b85a3d0b2)
 
 ### Öffentliche, statische IPs
 
