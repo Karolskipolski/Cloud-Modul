@@ -19,3 +19,9 @@
 ## D) Installation automatisieren (70%)
 
 [YAML-File für die Datenbank](cloud-init-db.yaml)
+
+![image](https://github.com/user-attachments/assets/a62d73ca-34a0-4320-bfbe-bdd039a3e26f)
+![image](https://github.com/user-attachments/assets/c7fe3a38-7e87-42db-a162-015a972f28e5)
+![image](https://github.com/user-attachments/assets/6c7eddf7-3e2e-4e12-a1c5-59b0419d9328)
+![image](https://github.com/user-attachments/assets/16fb5429-2d87-415b-9df9-aff8dba981ee)
+[YAML-File für den Webserver](cloud-init-web.yaml)
