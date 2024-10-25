@@ -1,4 +1,4 @@
-#cloud-config Andrin
+#cloud-config Karol
 users:
   - name: ubuntu 
     sudo: ALL=(ALL) NOPASSWD:ALL 
