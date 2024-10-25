@@ -6,10 +6,11 @@ users: # Benutzerkonfigurationen
     home: /home/ubuntu # Home-Verzeichnis des Benutzers
     shell: /bin/bash # Standard-Shell für den Benutzer
     ssh_authorized_keys: # Liste der autorisierten SSH-Schlüssel
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC41hkiVW8VPbM1+OvgHWMnk3SDZvRdJ82W/gXXOr9n0awBs4Ee2+iNL7pgjxGIsawRdEbkxmiYgx/1/pFFjohARP9V17NGhQW3UH/bnE+Z/qZO4DJ3xiAqSmCGk21Z8nkVWHxWWg9EI4ymkSBR1pa0YCuxfkvhnLtOrYcr7YLrspMUXiSZW/E7typNfcXx5osIgKB496gvGLfEyC6MfESHI6xTCrxw+qwS6apDp10gu8OAQRTbxYnl3LoifdKo51NMeAg5Ce0ZXqSIkgiMDlN+j+IYs0xONgeD+pzhD4FzBKygAREpRGvyGTWDZvOIXfETfFu8XnGmvyb8w6iMUroP karol-1 # Autorisierter SSH-Schlüssel für den Benutzer
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKFO5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYjt6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqMvPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD aws-key # Autorisierter SSH-Schlüssel für den Benutzer
 ssh_pwauth: false # Passwortauthentifizierung für SSH deaktiviert
 disable_root: false # Root-Benutzer nicht deaktiviert
 package_update: true # Pakete beim Booten aktualisieren
 packages: # Liste der zu installierenden Pakete
   - curl # Paket: curl
   - wget # Paket: wget
+
