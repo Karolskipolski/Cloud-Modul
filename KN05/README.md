@@ -12,5 +12,9 @@
 ![Screenshot 2024-10-25 111318](https://github.com/user-attachments/assets/2e79b76e-e134-4986-80a4-24dd36c56762)
 ![image](https://github.com/user-attachments/assets/6341a329-2b0d-41b3-aa31-24f0b82f8d02)
 
-## C) Installation automatisieren (70%)
+## C) Template (5%)
+
+[YAML-File mit zugriff für Lehrer](cloud-initC.yaml)
+
+## D) Installation automatisieren (70%)
 
