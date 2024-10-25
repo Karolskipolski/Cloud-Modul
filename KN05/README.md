@@ -18,3 +18,4 @@
 
 ## D) Installation automatisieren (70%)
 
+[YAML-File für die Datenbank](cloud-init-db.yaml)
