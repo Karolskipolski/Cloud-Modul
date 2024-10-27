@@ -18,3 +18,5 @@ Monitoring (Service Metrics): Überwachung von CPU-Auslastung und Netzwerkverkeh
 Managed Updates: Automatische Updates für Sicherheit und Stabilität, mit der Option, sie bei Bedarf sofort anzuwenden.
 
 Alarms: Möglichkeit, Benachrichtigungen bei Überlastungen zu erhalten. Aktuell keine Alarme, da die Umgebung wenig genutzt wird oder sich in einer Testphase befindet.
+
+## B) Erstellte Ressourcen/Objekte und CloudFormation (20%)
