@@ -31,4 +31,5 @@ Unterschied: CloudFormation verwaltet die gesamte Infrastruktur, während Cloud-
 ![image](https://github.com/user-attachments/assets/97cf7d29-09fe-40e7-8c37-60e07449a935)
 ![image](https://github.com/user-attachments/assets/38253150-44d7-40a2-b3ab-268e60e5046e)
 ![image](https://github.com/user-attachments/assets/d11a98ed-964a-4810-81bc-09144ede1794)
+![image](https://github.com/user-attachments/assets/a03818e6-2247-4b53-8d53-b40bc6139395)
 
