@@ -8,4 +8,10 @@
 
 ![Screenshot 2024-10-28 193224](https://github.com/user-attachments/assets/d8c68aa8-ac5e-4156-be04-ee509591be23)
 
-![Screenshot 2024-10-28 193307](https://github.com/user-attachments/assets/04fc3fb6-17fd-4d28-8b32-da5bbe1d93eb)
+![Screenshot 2024-10-28 193318](https://github.com/user-attachments/assets/a9e8cbb3-5c1b-493e-a7ec-78267b2acaab)
+
+## B) CRON-Job (30%)
+
+![Screenshot 2024-10-28 191818](https://github.com/user-attachments/assets/6a7ea5cc-2c81-4359-922f-1be0520e533c)
+
+![Screenshot 2024-10-28 191922](https://github.com/user-attachments/assets/beff0ebb-80af-4efa-a193-0170bd9d96b0)
