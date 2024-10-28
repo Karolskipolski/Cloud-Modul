@@ -1,1 +1,5 @@
+# KN08
+
+## A) Backup-Skript (70%)
+
 
