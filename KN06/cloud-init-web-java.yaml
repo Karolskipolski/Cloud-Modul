@@ -1,0 +1,72 @@
+#cloud-config
+# Nq2xGBEvFJR6xAXa
+# krawieckarol9
+# mongodb+srv://krawieckarol9:<db_password>@clusterkn06.jxvwr.mongodb.net/
+users:
+  - name: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    home: /home/ubuntu
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC41hkiVW8VPbM1+OvgHWMnk3SDZvRdJ82W/gXXOr9n0awBs4Ee2+iNL7pgjxGIsawRdEbkxmiYgx/1/pFFjohARP9V17NGhQW3UH/bnE+Z/qZO4DJ3xiAqSmCGk21Z8nkVWHxWWg9EI4ymkSBR1pa0YCuxfkvhnLtOrYcr7YLrspMUXiSZW/E7typNfcXx5osIgKB496gvGLfEyC6MfESHI6xTCrxw+qwS6apDp10gu8OAQRTbxYnl3LoifdKo51NMeAg5Ce0ZXqSIkgiMDlN+j+IYs0xONgeD+pzhD4FzBKygAREpRGvyGTWDZvOIXfETfFu8XnGmvyb8w6iMUroP aws-key
+ssh_pwauth: true
+disable_root: false  
+package_update: true 
+packages:
+  - curl
+  - wget
+  - nginx
+  - openjdk-17-jre-headless
+write_files:
+  - content: |
+      [Unit]
+      Description=Demo Shop
+      After=syslog.target
+      [Service]
+      WorkingDirectory=/var/www/app
+      User=www-data
+      ExecStart=java -jar /var/www/app/shopdemo-1.0.0.jar --spring.config.additional-location=/var/www/app/production.properties SuccessExitStatus=143 
+      Restart=always
+      RestartSec=10
+      [Install] 
+      WantedBy=multi-user.target
+    path: /etc/systemd/system/shop-app.service
+  - content: |
+      server {
+        listen        80;
+        server_name   default;
+        location / {
+          proxy_pass         http://127.0.0.1:5001;
+          proxy_http_version 1.1;
+          proxy_set_header   Upgrade $http_upgrade;
+          proxy_set_header   Connection keep-alive;
+          proxy_set_header   Host $host;
+          proxy_cache_bypass $http_upgrade;
+          proxy_set_header   X-Forwarded-For $proxy_add_x_forwarded_for;
+          proxy_set_header   X-Forwarded-Proto $scheme;
+        }
+      }
+    path: /home/ubuntu/nginx
+runcmd:
+  - sudo git clone https://gitlab.com/ch-tbz-it/Stud/m346/m346scripts.git /home/ubuntu/m346scripts
+  - sudo git -C /home/ubuntu/m346scripts checkout v4.1 
+  # install mongodb shell
+  - sudo wget -qO- https://www.mongodb.org/static/pgp/server-6.0.asc | sudo tee /etc/apt/trusted.gpg.d/server-6.0.asc
+  - sudo echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  - sudo apt-get update
+  - sudo apt-get install -y mongodb-mongosh
+  # import mongodb collections
+  - mongosh "mongodb+srv://clusterkn06.jxvwr.mongodb.net/" --u krawieckarol9 -p Nq2xGBEvFJR6xAXa < /home/ubuntu/m346scripts/KN06/shop-database-mongodb.txt
+  # install App
+  - sudo mkdir /var/www
+  - sudo mkdir /var/www/app
+  - sudo sed -i 's/<clusterUrl>/clusterkn06.jxvwr.mongodb.net/g' /home/ubuntu/m346scripts/KN06/java/production.properties
+  - sudo sed -i 's/<username>/krawieckarol9/g' /home/ubuntu/m346scripts/KN06/java/production.properties
+  - sudo sed -i 's/<password>/Nq2xGBEvFJR6xAXa/g' /home/ubuntu/m346scripts/KN06/java/production.properties
+  - sudo cp -r /home/ubuntu/m346scripts/KN06/java/* /var/www/app/
+  - sudo systemctl enable shop-app.service
+  - sudo systemctl start shop-app.service
+  - sudo service nginx start
+  - sudo cp /home/ubuntu/nginx /etc/nginx/sites-available/default
+  - sudo nginx -s reload
