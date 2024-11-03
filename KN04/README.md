@@ -26,8 +26,8 @@ ip2: 172.31.16.20
 
 ![image](https://github.com/user-attachments/assets/df99b576-0897-4cd7-9246-ee42ddf97a08)
 ![image](https://github.com/user-attachments/assets/0bcbecb6-d7fc-4297-896b-4fb59661634c)
-![image](https://github.com/user-attachments/assets/7da27c3b-38c8-4366-b4a0-6f1ddd7eba4c)
-![image](https://github.com/user-attachments/assets/2bbccacb-d01f-46ad-9548-95b0ee149a2e)
+![image](https://github.com/user-attachments/assets/73275412-b084-46ee-94f3-6feff4ddea03)
+![image](https://github.com/user-attachments/assets/daa3bc5e-9115-4f59-a9f8-624db49c9479)
 
 ### Datei Anpassungen
 
