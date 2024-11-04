@@ -10,6 +10,8 @@ Ein Reverse Proxy ist wie ein "Türsteher" für Server. Statt dass Anfragen dire
 
 ![image](https://github.com/user-attachments/assets/04706788-91d7-463a-9263-ec5e14bcf356)
 
+![image](https://github.com/user-attachments/assets/fc45630a-d8ff-4333-a8e5-17c38e26b9b0)
+
 In einer produktiven Umgebung ist es kritisch, sudo ohne Passwort und fest hinterlegte SSH-Schlüssel zu vermeiden. Auch sollten sensible Daten wie eine Datenbank-URL mit Platzhalter-Passwort nicht ungeschützt im Skript stehen, und Pakete wie nginx sollten kontrollierter installiert werden, um Sicherheitsrisiken zu minimieren.
 
 [YAML-JAVA-File](cloud-init-web-java.yaml)
