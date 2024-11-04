@@ -8,6 +8,9 @@
 
 ![image](https://github.com/user-attachments/assets/469cf641-282b-457c-9755-dc6d7a95cec8)
 
+Was ist der Unterschied zwischen IaaS und PaaS?
+Ich habe die beiden Modele verglichen und so siehts aus. Das IaaS Model bereitete mir sehr viel Mühe jedoch ist dies sicherer. Weil man Alles selber einstellen muss, kommt es nicht bei diesem Vorgang zu Unangenämlichkeiten. Beim PaaS Model kann es zu Schwierigkeiten kommen, weil nicht Alles beachtet wird. Beim PaaS wird die App nie gemonitored und könnte somit failen aber die instance würden trotzdem laufen, obwohl dies nicht so sein soll. Mein Fazit ist, dass obwohl das IaaS Model anstrengender und mühsamer ist, um ihn aufzubauen, find ich ist es sicherer und es könnte eine besser lösung sein anstatt die PaaS Lösung zu nehmen.
+
 ## B) Erstellte Ressourcen/Objekte und CloudFormation (20%)
 
 ![image](https://github.com/user-attachments/assets/9a36d024-ee0c-473a-9bd9-3e163716df4b)
