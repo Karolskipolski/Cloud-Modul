@@ -15,4 +15,4 @@
 ![image](https://github.com/user-attachments/assets/ac8479df-b523-4565-9eae-ff4a209b6707)
 ![Screenshot 2024-11-04 090810](https://github.com/user-attachments/assets/a4bb3f8e-4e35-4d91-895e-d2a33c72f6f9)
 
-
+CloudFormation ist ein AWS-Dienst, mit dem du Infrastruktur als Code umsetzen kannst, indem du Ressourcen wie Server, Datenbanken und Netzwerke in Templates definierst und verwaltest. Cloud-Init hingegen ist ein Linux-Tool, das für die Erstkonfiguration von Cloud-Instanzen genutzt wird, um beim Start Skripte und Einstellungen auszuführen. Der wesentliche Unterschied: CloudFormation managt die gesamte Infrastruktur, während Cloud-Init sich auf die Konfiguration einzelner Serverinstanzen beschränkt.
