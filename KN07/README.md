@@ -10,15 +10,7 @@
 
 ## B) Erstellte Ressourcen/Objekte und CloudFormation (20%)
 
-CloudFormation ist ein AWS-Dienst für die Verwaltung von Infrastruktur als Code, der Ressourcen wie EC2, Netzwerke und Sicherheitsgruppen automatisiert erstellt und verwaltet.
+![image](https://github.com/user-attachments/assets/9a36d024-ee0c-473a-9bd9-3e163716df4b)
+![image](https://github.com/user-attachments/assets/bc5d76ed-6782-46c5-ae85-1cc2e2e67b3f)
 
-Cloud-Init konfiguriert einzelne EC2-Instanzen beim Start, z. B. Software-Installationen und Benutzereinstellungen.
-
-Unterschied: CloudFormation verwaltet die gesamte Infrastruktur, während Cloud-Init nur die Startkonfiguration einer Instanz übernimmt.
-
-![image](https://github.com/user-attachments/assets/462157c0-1752-4e59-b077-5ae318c925e3)
-![image](https://github.com/user-attachments/assets/97cf7d29-09fe-40e7-8c37-60e07449a935)
-![image](https://github.com/user-attachments/assets/38253150-44d7-40a2-b3ab-268e60e5046e)
-![image](https://github.com/user-attachments/assets/d11a98ed-964a-4810-81bc-09144ede1794)
-![image](https://github.com/user-attachments/assets/a03818e6-2247-4b53-8d53-b40bc6139395)
 
